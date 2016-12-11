@@ -14,6 +14,18 @@ after _Morelia viridis_, the green tree python. It is compatible with and
 tested with 100% coverage on Python 3.5.
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/viridis-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/viridis-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/viridis-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/viridis-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/viridis-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/viridis-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/viridis/badges/version.svg)](https://anaconda.org/conda-forge/viridis)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/viridis/badges/downloads.svg)](https://anaconda.org/conda-forge/viridis)
+
 Installing viridis
 ==================
 
@@ -34,7 +46,6 @@ It is possible to list all of the versions of `viridis` available on your platfo
 ```
 conda search viridis --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -70,18 +81,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/viridis-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/viridis-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/viridis-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/viridis-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/viridis-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/viridis-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/viridis/badges/version.svg)](https://anaconda.org/conda-forge/viridis)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/viridis/badges/downloads.svg)](https://anaconda.org/conda-forge/viridis)
 
 
 Updating viridis-feedstock
