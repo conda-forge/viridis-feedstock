@@ -23,7 +23,7 @@ requirements:
   run:
     - python
     - numpy
-    - networkx<2.0
+    - networkx <2.0
 
 test:
   requires:
