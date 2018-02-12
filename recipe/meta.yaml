@@ -1,6 +1,6 @@
 {% set name = "viridis" %}
-{% set version = "0.4.1" %}
-{% set sha256 = "59c0598e0e144bda22fefd0174ad827d095f0ef9baf62f51334436e93b7e748b" %}
+{% set version = "0.4.2" %}
+{% set sha256 = "ba8f809eb125487d919bf80c8e53e325fd3d0d7c3827179af10c54eebb12d95a" %}
 
 package:
   name: {{ name|lower }}
@@ -23,7 +23,7 @@ requirements:
   run:
     - python
     - numpy
-    - networkx
+    - networkx <2.0
 
 test:
   requires:
