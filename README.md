@@ -3,7 +3,7 @@ About viridis
 
 Home: https://github.com/jni/viridis
 
-Package license: BSD 3-clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD 3-Clause
 
@@ -17,9 +17,8 @@ tested with 100% coverage on Python 3.5.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/viridis-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/viridis-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/viridis-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/viridis-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/viridis-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/viridis-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/viridis-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/viridis-feedstock)
 
 Current release info
 ====================
